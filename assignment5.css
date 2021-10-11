@@ -1,0 +1,15 @@
+/*
+COMP125-007: Assignment 5
+
+Kyle O'Keeffe
+301156790
+Apr. 1, 2021
+*/
+body{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    
+    padding:5vh 5vw 5vh 5vw;
+}
